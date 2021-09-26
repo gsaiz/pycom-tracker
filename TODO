@@ -1,0 +1,2 @@
+- Fix GPS coordinates precision? They are significantly less accurate than WLAN scans.
+- Add NB-IoT support.

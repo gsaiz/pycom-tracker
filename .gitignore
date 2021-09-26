@@ -1,0 +1,9 @@
+.venv
+# Don't save credentials files
+.env
+upython/configs/creds.json
+# Map with Google Geolocate API key
+google_maps_plots/map.html
+google_maps_plots/locations
+# SD card dumps
+sd

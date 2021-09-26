@@ -1,0 +1,12 @@
+{
+    "_comment_GOOGLE_GEOLOCATION_API_KEY": "Google Geolocation API key. It is required.",
+    "GOOGLE_GEOLOCATION_API_KEY": "",
+    "_comment_WLAN_SSID": "WiFi AP name to connect to (WPA2 auth).",
+    "WLAN_SSID": "",
+    "_comment_WLAN_WPA2_PASSWORD": "WiFi AP password to connect to (WPA2 auth).",
+    "WLAN_WPA2_PASSWORD": "",
+    "_comment_LORAWAN_APP_EUI": "LoRaWAN APP EUI. Required for OTAA join.",
+    "LORAWAN_APP_EUI": "",
+    "_comment_LORAWAN_APP_KEY": "LoRaWAN APP KEY. Required for OTAA join.",
+    "LORAWAN_APP_KEY": ""
+}

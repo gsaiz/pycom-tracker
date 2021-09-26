@@ -1,0 +1,12 @@
+{
+    "_comment_GOOGLE_GEOLOCATION_API": "If true, will connect to preconfigured wifi credentials and query Google Geolocation API",
+    "GOOGLE_GEOLOCATION_API": false,
+    "_comment_LORAWAN": "If true, it will send the WLAN scan with the closest 5 networks via LoRaWAN.",
+    "LORAWAN": false,
+    "_comment_GPS": "If true, it will try to read a location from a UART GPS module.",
+    "GPS": true,
+    "_comment_SAVE_TO_SD": "If true, it will save scans and locations to SD card, datalogger mode.",
+    "SAVE_TO_SD": true,
+    "_comment_CYCLE_SLEEP_S": "How long to sleep for between cycles, in s.",
+    "CYCLE_SLEEP_S": 20
+}
